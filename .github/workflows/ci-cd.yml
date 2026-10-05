@@ -37,3 +37,5 @@ jobs:
         with:
           name: webpage
           path: index.html
+
+      - run: exit 1
